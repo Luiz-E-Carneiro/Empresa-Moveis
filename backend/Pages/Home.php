@@ -5,7 +5,7 @@
 </div>
 
 <section id="sobre" class="container mx-auto px-4 py-8">
-  <h2 class="text-3xl font-bold text-center mb-8 font-serif">Sobre Nós</h2>
+  <h2 class="text-3xl font-bold text-center mb-8 font-serif text-gray-900">Sobre Nós</h2>
   
   <div class="flex flex-col md:flex-row gap-8 mb-8">
     <div class="md:w-1/2">

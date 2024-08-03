@@ -1,5 +1,5 @@
 <section class="container mx-auto px-4 py-8">
-    <h2 class="text-2xl md:text-4xl font-bold text-center mb-8 font-serif">Sobre Nós</h2>
+    <h2 class="text-2xl md:text-4xl font-bold text-center mb-8 font-serif text-gray-900">Sobre Nós</h2>
     <div class="flex flex-col md:flex-row items-center md:items-start mb-8">
         <div class="md:w-1/2 p-4">
             <p class="text-gray-700 text-base md:text-lg leading-relaxed indent-8">
@@ -26,10 +26,10 @@
 <section class="container mx-auto px-4 pt-2 pb-8">
     <div class="w-full flex bg-gradient-to-l from-slate-200">
         <div class="flex-1 flex justify-center items-center">
-            <h2 class="text-2xl md:text-4xl font-bold text-center mb-8 font-serif">Localização</h2>
+            <h2 class="text-2xl md:text-4xl font-bold text-center mb-8 font-serif text-gray-900">Localização</h2>
         </div>
         <div class="flex-1 flex flex-col gap-2 py-4 items-center font-mono font-light">
-            <p class="sm:text-sm">Nosso endereço é:</p>
+            <p>Nosso endereço é:</p>
             <p>Rua dos Saberes, 167</p>
             <p>Balneário Camburiú, SC</p>
             <p>Telefone: +55 54 99999-9999</p>
