@@ -1,5 +1,8 @@
 <?php
 
+require_once("./../backend/db/Database.php");
+require_once("./../backend/db/config.php");
+
 require_once('./../backend/Components/Header.php');
 
 $page = isset($_GET['page']) ? $_GET['page'] : 'Home';
