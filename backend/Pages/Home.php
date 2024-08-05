@@ -21,7 +21,7 @@
   </div>
 </section>
 
-<section class="mx-auto w-full md:w-4/5 px-4 py-8 flex flex-col md:flex-row justify-between bg-slate-200 mb-4">
+<section class="mx-auto w-full md:w-4/5 px-4 py-8 flex flex-col md:flex-row justify-between bg-slate-300 mb-4">
     <div class="flex-1 flex justify-center items-center mb-8 md:mb-0">
         <div class="w-full md:w-2/3 flex flex-col gap-2">
             <h2 class="text-4xl md:text-5xl font-light mb-4">Contate-nos</h2>
