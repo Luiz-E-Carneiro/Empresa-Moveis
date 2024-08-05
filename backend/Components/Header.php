@@ -15,7 +15,7 @@
 <body class="bg-gray-100">
     <nav class="bg-white shadow-md">
         <div class="container mx-auto px-4 py-2 flex justify-between items-center">
-            <a href="#" class="text-xl font-bold font-serif text-gray-800">Móveis Varese</a>
+            <a href="./index.php?page=Home" class="text-2xl font-bold font-serif text-gray-800">Móveis Varese</a>
             <div class="space-x-4">
                 <a href="./index.php?page=Home" class="text-gray-600 hover:text-gray-800 font-mono">Home</a>
                 <a href="./index.php?page=Sobre" class="text-gray-600 hover:text-gray-800 font-mono">Sobre</a>
